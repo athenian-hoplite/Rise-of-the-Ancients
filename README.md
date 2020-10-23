@@ -48,14 +48,15 @@ Another concept related to this demo is Line of Sight. When the game starts the 
 
 ![](./readmeRes/separator.png)
 
-### About me
+### About us
 
-At the time of writing I am at the end of the final year of my Bachelor's degree in Software Engineering at [Instituto Superior de Engenharia do Porto (ISEP)](https://www.isep.ipp.pt/), I am developing this project, using Unity, part-time while on the final year of said degree.
+David Pereira and Renato Pereira are two software developers that have a passion for video games and their development. We have embarked on this project due to our vision for a different grand strategy game.
 
 ![](./readmeRes/separator.png)
 
 ### Contact Information
 
-Contact me at renatofeghipereira5@gmail.com
+Renato Pereira : renatofeghipereira5@gmail.com
+David Pereira : heligolandpy@gmail.com
 
 ![](./readmeRes/separator.png)
